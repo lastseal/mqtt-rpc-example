@@ -1,3 +1,6 @@
 # -*- coding: utf-8 -*
 
-import paho.mqtt.client as mqtt
+from micro import mqtt
+
+res = mqtt.call("status")
+print(res)
