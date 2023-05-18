@@ -1,1 +1,2 @@
 git+https://github.com/lastseal/micro-mqtt
+git+https://github.com/lastseal/micro-config
